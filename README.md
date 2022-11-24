@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/vitunog/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/gYjtTfx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/victor-nogueira-971437252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://github.com/Nog21" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+   <a href="https://github.com/Nog21" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/Nog21/Nog21/blob/output/github-contribution-grid-snake.svg)
 
